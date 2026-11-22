@@ -11,7 +11,6 @@ A collection of course laboratory exercises in image processing and pattern reco
 | **03 — Classification Models** | Supervised classification on the `sklearn` breast cancer dataset | KNN, Gaussian Naive Bayes, QDA, feature scaling, stratified cross-validation, hyperparameter tuning, confusion matrices, ROC-AUC |
 | **04 — PCA & Dimensionality Reduction** | Analyze variance, feature loadings and classifier performance | PCA, explained variance, 2D projection, PCA+KNN pipelines, cross-validation and sensitivity comparisons |
 
-**Lab 1:** Move the three existing root files (`PatternLab1MennaNabil.pdf`, `PatternLab1_Menna_Nabil.ipynb`, and the old blood-smear `README.md`) into `Lab-1/`. The README at the repository root should describe all four labs.
 
 ## Selected results from the uploaded notebooks
 
